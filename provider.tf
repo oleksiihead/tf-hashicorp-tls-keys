@@ -7,6 +7,4 @@ terraform {
   }
 }
 
-provider "tls" {
-  # Configuration options
-}
+# provider "tls" {}
